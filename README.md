@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Melody
 - 👀 I’m interested in Web developing
 - 💞️ I’m looking to collaborate on innovative develop team.
-- 📫 How to reach me (sw037233@gmail.com)
+- 📫 How to reach me (rh037233@gmail.com)
 
 ### Languages and tools:
 
