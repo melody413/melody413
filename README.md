@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @Melody
-- 👀 I’m interested in Web developing
-- 💞️ I’m looking to collaborate on innovative develop team.
 <p>
     <a href="https://vaunt.dev">
         <img src="https://api.vaunt.dev/v1/github/entities/{{github_username}}/contributions?format=svg" width="350" />
