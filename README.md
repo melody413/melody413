@@ -1,5 +1,5 @@
 <h1 align="center">👋 Welcome</h1>
-<h3 align="center">Full Stack Engineer</h3>
+<h3 align="center">Full Stack Engineer specialized in AI and Scraping</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melody413&label=Profile%20views&color=0e75b6&style=flat" alt="melody413" /> </p>
 
